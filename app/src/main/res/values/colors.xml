@@ -1,0 +1,68 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!-- Classic colors-->
+    <color name="dahlia_yellow">#f99a1c</color>
+    <color name="rust">#BB3E03</color>
+    <color name="green_blue">#0f4c64</color>
+    <color name="putty">#e7cd96</color>
+    <color name="red_lilac">#816183</color>
+    <color name="pale_leaf">#eadcc2</color>
+    <color name="tundora">#444343</color>
+    <color name="emperor">#535353</color>
+    <color name="olive_haze">#8b8270</color>
+    <color name="cod_gray">#181818</color>
+    <color name="mantle">#9ca59c</color>
+    <color name="jumbo">#727274</color>
+    <color name="cocoa_brown">#2b1a1a</color>
+    <color name="sirocco">#6e827e</color>
+    <color name="manatee">#9897a5</color>
+    <color name="contessa">#c56267</color>
+    <color name="pearl_ruby_red">#701d23</color>
+
+
+<!--light colors-->
+    <color name="niagara">#03bc71</color>
+    <color name="corduroy">#59605e</color>
+    <color name="gallery">#ececec</color>
+    <color name="oslo_gray">#969797</color>
+    <color name="carrot_orange">#f2882d</color>
+    <color name="pastel_orange">#ffcb50</color>
+    <color name="fedora">#6c6b6c</color>
+    <color name="cloudy">#afa8a3</color>
+    <color name="silver_sand">#bcbebe</color>
+    <color name="spun_pearl">#acabb4</color>
+    <color name="hippie_blue">#619eb8</color>
+
+<!--light classic colors-->
+    <color name="shark">#303338</color>
+    <color name="pumice">#c9d0c8</color>
+    <color name="shingle_fawn">#754e3b</color>
+    <color name="pale_sky">#707378</color>
+    <color name="pharlap">#a5857d</color>
+    <color name="gray_chateau">#9da3aa</color>
+    <color name="old_lavender">#655b65</color>
+    <color name="dusty_gray">#a48c96</color>
+    <color name="smalt_blue">#547484</color>
+    <color name="mahogany">#4f0506</color>
+    <color name="pear">#dfd232</color>
+
+
+<!--dark-->
+    <color name="green_spring">#b0b4ae</color>
+    <color name="chicago">#5e5c56</color>
+    <color name="tuatara">#2a2a29</color>
+    <color name="camouflage_green">#7a8773</color>
+    <color name="apple_blossom">#a93e3d</color>
+    <color name="storm_gray">#72718e</color>
+    <color name="lunar_green">#3a4537</color>
+    <color name="martinique">#35344d</color>
+
+
+</resources>

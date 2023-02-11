@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">teste_2</string>
+
+    <string name="display_hint"></string>
+    <string name="one_text">1</string>
+    <string name="two_text">2</string>
+    <string name="three_text">3</string>
+    <string name="four_text">4</string>
+    <string name="five_text">5</string>
+    <string name="six_text">6</string>
+    <string name="seven_text">7</string>
+    <string name="eight_text">8</string>
+    <string name="nine_text">9</string>
+    <string name="zero_text">0</string>
+
+    <string name="clear_text">C</string>
+    <string name="parenthesis_open_text">(</string>
+    <string name="parenthesis_close_text">)</string>
+    <string name="sum_operator">+</string>
+    <string name="minus_operator">-</string>
+    <string name="prod_operator">*</string>
+    <string name="divide_operator">/</string>
+    <string name="equals_text">=</string>
+    <string name="coma_text">.</string>
+
+    <string name="trig_sin_text">sin</string>
+    <string name="trig_cos_text">cos</string>
+    <string name="trig_tan_text">tan</string>
+    <string name="trig_arcsin_text">sin<sup><small>-1</small></sup></string>
+    <string name="trig_arccos_text">cos<sup><small>-1</small></sup></string>
+    <string name="trig_arctan_text">tan<sup><small>-1</small></sup></string>
+    <string name="neperiano_log_text">ln</string>
+    <string name="log_text">log</string>
+    <string name="square_root_text">√</string>
+    <string name="absolute_value_text">|x|</string>
+    <string name="pi_text">π</string>
+    <string name="e_text">e</string>
+    <string name="x_square_text">x<sup><small>2</small></sup></string>
+    <string name="x_power_y_text">x<sup><small>y</small></sup></string>
+    <string name="factorial_text">n!</string>
+    <string name="shift_text">shift</string>
+    <string name="conversor_text">CONVERT</string>
+    <string name="from_text">FROM</string>
+    <string name="to_text">TO</string>
+    <string name="watts_text">Watts -> W</string>
+    <string name="gigawatts_text">GigaWatts -> GW</string>
+    <string name="kilowatts_text">Kilowatts -> KW</string>
+    <string name="megawatts_text">Megawatts -> MW</string>
+    <string name="miliwatts_text">milliwatts -> mW</string>
+    <string name="dbm_text">Decibel-milliwatt -> DBm</string>
+    <string name="dbw_text">Decibel-watt -> DBw</string>
+    <string name="linear_text">Decibel-Killowatt -> DBKw</string>
+
+
+</resources>

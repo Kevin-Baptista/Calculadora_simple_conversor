@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MathParser.org-mXparser</id>
+    <version>5.1.0</version>
+    <title>mXparser – Math Expressions Parser / Formula Evaluator library for JAVA Android C# .NET/MONO (.NET Framework, .NET Core, .NET Standard, .NET PCL, Xamarin.Android, Xamarin.iOS) CLS compliant</title>
+    <authors>Mariusz Gromada</authors>
+    <owners>Mariusz Gromada</owners>
+    <projectUrl>https://mathparser.org/</projectUrl>
+    <iconUrl>https://mathparser.org/wp-content/uploads/2020/01/mxparser-icon.png</iconUrl>
+	<icon>images\icon.png</icon>
+    <description>mXparser is a super easy, rich, fast and highly flexible math expression parser library (parser and evaluator of mathematical expressions / formulas provided as plain text / string). Software delivers easy to use API for JAVA, Android and C# .NET/MONO (Common Language Specification compliant: F#, Visual Basic, C++/CLI). *** If you find the software useful donation or purchase is something you might consider: https://mathparser.org/donate/ *** Online store: https://payhip.com/INFIMA *** Scalar Scientific Calculator, Charts and Scripts, Scalar Lite: https://play.google.com/store/apps/details?id=org.mathparser.scalar.lite *** Scalar Pro: https://play.google.com/store/apps/details?id=org.mathparser.scalar.pro *** ScalarMath.org: https://scalarmath.org/ *** MathSpace.pl: https://mathspace.pl/ ***</description>
+    <summary>mXparser is a super easy, rich, fast and highly flexible math expression parser library (parser and evaluator of mathematical expressions / formulas provided as plain text / string). Software delivers easy to use API for JAVA, Android and C# .NET/MONO (Common Language Specification compliant: F#, Visual Basic, C++/CLI). Expression parser comes with extensive documentation, easy to follow tutorial, "Hello World!" projects for different languages explained with many screenshots, and finally - last, but not least - performance test summary. Formula evaluator is distributed under the DUAL LICENSE model, that is designed to meet the needs of both Non-Commercial Use as well as Commercial Use.</summary>
+    <releaseNotes>v.5.1 Libris: Additional Probability Distributions</releaseNotes>
+    <copyright>Copyright 2010 - 2022, Mariusz Gromada - MathParser.org</copyright>
+    <tags>Math Mathematics Mathematical Expression Expressions Parser Formula Evaluator Calculator Units Solve Probability Integration Derivative Calculus Recursion Operator Logic Condition Bitwise Custom MONO .NET Core Standard PCL Xamarin Android iOS Unary Binary Ternary Quaternary Quinary Senary Septenary Octal Nonary Decimal Undecimal Duodecimal Tridecimal Tetradecimal Pentadecimal Hexadecimal Base_N </tags>
+	<license type="file">LICENSE.txt</license>
+	<repository type="git" url="https://github.com/mariuszgromada/MathParser.org-mXparser" />
+	<dependencies>
+		<group targetFramework=".NETFramework3.5" />
+		<group targetFramework=".NETFramework4.0" />
+		<group targetFramework=".NETFramework4.5" />
+		<group targetFramework=".NETFramework4.6" />
+		<group targetFramework=".NETFramework4.7" />
+		<group targetFramework=".NETFramework4.8" />
+		<group targetFramework=".NETFramework4.5.1" />
+		<group targetFramework=".NETFramework4.5.2" />
+		<group targetFramework=".NETFramework4.6.1" />
+		<group targetFramework=".NETFramework4.6.2" />
+		<group targetFramework=".NETFramework4.7.1" />
+		<group targetFramework=".NETFramework4.7.2" />
+		<group targetFramework=".NETCoreApp1.0" />
+		<group targetFramework=".NETCoreApp1.1" />
+		<group targetFramework=".NETCoreApp2.0" />
+		<group targetFramework=".NETCoreApp2.1" />
+		<group targetFramework=".NETCoreApp2.2" />
+		<group targetFramework=".NETCoreApp3.0" />
+		<group targetFramework=".NETCoreApp3.1" />
+		<group targetFramework=".NETStandard1.0" />
+		<group targetFramework=".NETStandard1.1" />
+		<group targetFramework=".NETStandard1.2" />
+		<group targetFramework=".NETStandard1.3" />
+		<group targetFramework=".NETStandard1.4" />
+		<group targetFramework=".NETStandard1.5" />
+		<group targetFramework=".NETStandard1.6" />
+		<group targetFramework=".NETStandard2.0" />
+		<group targetFramework=".NETStandard2.1" />
+		<group targetFramework="net5.0" />
+		<group targetFramework="net6.0" />
+		<group targetFramework=".NETPortable4.5-Profile111" />
+	</dependencies>
+  </metadata>
+  <files>
+    <file src="..\README.txt" target="" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net35\*.dll" target="lib\net35" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net40\*.dll" target="lib\net40" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net45\*.dll" target="lib\net45" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net46\*.dll" target="lib\net46" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net47\*.dll" target="lib\net47" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net48\*.dll" target="lib\net48" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net451\*.dll" target="lib\net451" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net452\*.dll" target="lib\net452" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net461\*.dll" target="lib\net461" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net462\*.dll" target="lib\net462" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net471\*.dll" target="lib\net471" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net472\*.dll" target="lib\net472" />
+	
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp1.0\*.dll" target="lib\netcoreapp10" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp1.0\*.json" target="lib\netcoreapp10" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp1.1\*.dll" target="lib\netcoreapp11" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp1.1\*.json" target="lib\netcoreapp11" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp2.0\*.dll" target="lib\netcoreapp20" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp2.0\*.json" target="lib\netcoreapp20" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp2.1\*.dll" target="lib\netcoreapp21" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp2.1\*.json" target="lib\netcoreapp21" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp2.2\*.dll" target="lib\netcoreapp22" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp2.2\*.json" target="lib\netcoreapp22" />
+		
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp3.0\*.dll" target="lib\netcoreapp30" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp3.0\*.json" target="lib\netcoreapp30" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp3.1\*.dll" target="lib\netcoreapp31" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netcoreapp3.1\*.json" target="lib\netcoreapp31" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.0\*.dll" target="lib\netstandard10" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.0\*.json" target="lib\netstandard10" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.1\*.dll" target="lib\netstandard11" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.1\*.json" target="lib\netstandard11" />
+	
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.2\*.dll" target="lib\netstandard12" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.2\*.json" target="lib\netstandard12" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.3\*.dll" target="lib\netstandard13" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.3\*.json" target="lib\netstandard13" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.4\*.dll" target="lib\netstandard14" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.4\*.json" target="lib\netstandard14" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.5\*.dll" target="lib\netstandard15" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.5\*.json" target="lib\netstandard15" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.6\*.dll" target="lib\netstandard16" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard1.6\*.json" target="lib\netstandard16" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard2.0\*.dll" target="lib\netstandard20" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard2.0\*.json" target="lib\netstandard20" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard2.1\*.dll" target="lib\netstandard21" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\netstandard2.1\*.json" target="lib\netstandard21" />
+	
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net50\*.dll" target="lib\net5.0" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net50\*.json" target="lib\net5.0" />
+
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net60\*.dll" target="lib\net6.0" />
+    <file src="tests-and-release\2-Release-Net-Stand-Core\bin\Release\net60\*.json" target="lib\net6.0" />
+
+    <file src="tests-and-release\3-Release-PCL\bin\Release\*.dll" target="lib\portable45-net45+win8+wpa81" />
+	
+	<file src="..\..\LICENSE.txt" target="" />
+	
+	<file src="..\icon.png" target="images\" />
+
+  </files>
+</package>
